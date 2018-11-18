@@ -1187,5 +1187,3 @@ time so donations would be greatly appreciated. Please consider donating to the
 address below. Driver development for new ASIC only bitcoin hardware can be
 suitably sponsored.
 
-Con Kolivas <kernel@kolivas.org>
-15qSxP1SQcUX3o4nhkfdbgyoWEFMomJ4rZ
